@@ -1,4 +1,4 @@
-# Iosevka WebFont 22.1.2
+# Iosevka WebFont 23.0.0
 
 ## How to use
 
